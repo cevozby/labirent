@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Deneme : MonoBehaviour
 {
+    string name = "Bengi";
+
     // Start is called before the first frame update
     void Start()
     {
