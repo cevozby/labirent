@@ -9,6 +9,8 @@ public class Deneme1 : MonoBehaviour
     {
         
         GetComponent<BoxCollider2D>();
+
+        string kevser = "17";
     }
 
     // Update is called once per frame
