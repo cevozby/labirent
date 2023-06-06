@@ -14,6 +14,6 @@ public class Deneme1 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        GetComponent<Rigidbody2D>().velocity = Vector2.one;
     }
 }
