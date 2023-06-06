@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Deneme1 : MonoBehaviour
 {
+    string deneme = "Çakýþma var mý?";
     // Start is called before the first frame update
     void Start()
     {
