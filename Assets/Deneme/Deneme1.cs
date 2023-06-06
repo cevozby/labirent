@@ -18,5 +18,6 @@ public class Deneme1 : MonoBehaviour
     void Update()
     {
         GetComponent<Rigidbody2D>().velocity = Vector2.one;
+        string kevserortu = "mavi"; 
     }
 }
